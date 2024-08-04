@@ -9,3 +9,6 @@ Utilização:
 ```bash
 docker run --rm viniciusrossmann/fullcycle
 ```
+
+## Desafio Node:
+[Compose](desafio-node/docker-compose.yml)
